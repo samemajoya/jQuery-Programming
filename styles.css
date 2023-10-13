@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ada244;
+  }
+  
+  .parent, .sibling{
+    padding: 20px;
+    margin: 10px;
+    background-color: #2ecc71;
+    border: 2px solid #fff;
+    text-align: center;
+    color: #fff;
+  }
